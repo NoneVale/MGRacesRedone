@@ -177,7 +177,7 @@ public class WhirlWind implements IAbility{
                 break;
             case 5: desc = new String[]{"Your tornado will summon lightning strikes."};
                 break;
-            default: desc = new String[]{"This is an error!"};
+            default: desc = new String[]{"This is an error!  Now eat some cake!"};
                 break;
 
         }
